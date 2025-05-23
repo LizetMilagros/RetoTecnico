@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string-array name="sort_options">
+        <item>Menor precio</item>
+        <item>Mayor precio</item>
+    </string-array>
+</resources>
