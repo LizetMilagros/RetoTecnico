@@ -35,4 +35,26 @@ La aplicación está construida siguiendo buenas prácticas de arquitectura y de
 ---
 
 💡 
-![WhatsApp Image 2025-05-23 at 09 17 47](https://github.com/user-attachments/assets/6b3cdbcc-0b19-416b-99cd-33a8e7598629)
+## 🖼️ proyecto en ejecucion
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6b3cdbcc-0b19-416b-99cd-33a8e7598629" width="200" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7b9e7e1b-7f5e-4f2f-876c-41d17b7720a1" width="200" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/608fdb92-c7ab-412c-acad-d4c15c500fb1" width="200" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/495ab209-b8bb-40b0-af14-cdb5ab12f29f" width="200" />
+    </td>
+  </tr>
+</table>
+
+
+
